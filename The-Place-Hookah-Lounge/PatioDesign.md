@@ -12,7 +12,7 @@
 
 **Projection Location:** 4112 Redan Rd, Stone Mountain, GA 30083
 
-### Delivery Date 
+### Estimated Build Date 
 - June  (Summer Time)
 
 ### Estime CAD Time Required:
