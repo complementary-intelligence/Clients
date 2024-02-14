@@ -1,6 +1,6 @@
 # The Place Hookah Lounge
 
-[https://raw.github.com/complementary-intelligence/Clients/blob/main/The-Place-Hookah-Lounge/the-place-hookah-lounge-patio.png](https://github.com/complementary-intelligence/Clients/blob/main/The-Place-Hookah-Lounge/the-place-hookah-lounge-patio.png)
+[View Patio 3d Dimensions](https://github.com/complementary-intelligence/Clients/blob/main/The-Place-Hookah-Lounge/the-place-hookah-lounge-patio.png)
 
 ## Outside Patio
 
