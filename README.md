@@ -39,8 +39,7 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the Apache 2.0 License. See `LICENSE` for more information.
 
 ## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+complementaryintel@gmail.com
 
 Project Link: [https://github.com/your_username/Client-Project-Resources](https://github.com/your_username/Clients)
 
