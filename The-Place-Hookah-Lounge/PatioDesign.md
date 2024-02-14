@@ -1,5 +1,7 @@
 # The Place Hookah Lounge
 
+[https://github.com/complementary-intelligence/Clients/blob/main/The-Place-Hookah-Lounge/the-place-hookah-lounge-patio.png](https://github.com/complementary-intelligence/Clients/blob/main/The-Place-Hookah-Lounge/the-place-hookah-lounge-patio.png)
+
 ## Outside Patio
 
 **Client:** AJ
